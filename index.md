@@ -3,3 +3,9 @@
 ``` javascript
 var myName = "My name is Ciprian";
 ```
+- [x] Add headers
+- [x] Add an image
+- [ ] Merge your pull request
+- [x] Add a code example
+- [x] Make a task list
+- [ ] Finish this course
